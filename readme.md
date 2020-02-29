@@ -2,7 +2,7 @@
 
 This is the main repositories for all of the projects.
 
-|  #  |            Project             | Live Demo |
+|  #  |            Source             | Live Demo |
 | :-: | :----------------------------: | :-------: |
 | 01  |       [Terry Soot site](https://github.com/shchadyloTaras/terry_soot_src)       | [Live Demo](https://shchadylotaras.github.io/terrySoot/)  |
 | 02  |       [Dribble animation concept](https://github.com/shchadyloTaras/animation-dribble-dev)       | [Live Demo](https://shchadylotaras.github.io/animation-dribble-1/)  |
